@@ -1,4 +1,8 @@
-#
+# Zero-Shot Intent Classifier
+
+This sort of thing used to be non-trivial. I hacked this together probably in like an hour. 
+
+Ho boy, the times: they are a changin.
 
 ## Setup
 
