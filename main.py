@@ -41,7 +41,7 @@ if __name__ == '__main__':
 
     # e2e test
     chain = build_intent_classifier()
-    if sys.argv[1]:
+    if len(sys.argv) > 1:
         text = sys.argv[1]
         response = evaluate(chain, text)
         print(response)
