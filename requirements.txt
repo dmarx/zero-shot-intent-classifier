@@ -1,0 +1,7 @@
+langchain
+openai
+google-api-python-client
+python-dotenv
+omegaconf
+transformers
+torch
