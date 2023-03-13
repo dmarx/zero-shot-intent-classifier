@@ -6,7 +6,7 @@ Ho boy, the times: they are a changin.
 
 ## What is this?
 
-This is probably going to sound archaic in a few months, but a lot of "home assistant" type devices right now use a technique called "slot filling" under the hood. A component in a slot-filling system is an "intent" classifier. Instead of training one bespoke: if you need one you can probably just use this directly with no or very little modification.
+This is probably going to sound archaic in a few months, but a lot of "home assistant" type devices right now use a technique called "slot filling" under the hood. An "intent" classifier is the component that figures out what the relevant slots are and 'fills' them with values, resulting in a command being emitted and arguments passed. Instead of training one bespoke: you can probably just use this directly with no or very little modification.
 
 ## Setup
 
