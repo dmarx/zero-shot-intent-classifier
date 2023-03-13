@@ -12,5 +12,5 @@ Ho boy, the times: they are a changin.
 
 ## Use
 
-    python main.py  "becca, how would I drive from my home to SeaTac airport?"
-    > {'intent': 'get_directions', 'arguments': {'start_location': 'home', 'end_location': 'SeaTac airport'}}
+    $ python main.py  "becca, how would I drive from my home to SeaTac airport?"
+    ## {'intent': 'get_directions', 'arguments': {'start_location': 'home', 'end_location': 'SeaTac airport'}}
