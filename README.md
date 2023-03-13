@@ -4,6 +4,10 @@ This sort of thing used to be non-trivial. I hacked this together probably in li
 
 Ho boy, the times: they are a changin.
 
+## What is this?
+
+This is probably going to sound archaic in a few months, but a lot of "home assistant" type devices right now use a technique called "slot filling" under the hood. A component in a slot-filling system is an "intent" classifier. Instead of training one bespoke: if you need one you can probably just use this directly with no or very little modification.
+
 ## Setup
 
 1. `git clone <this repo>; cd <this repo>`
